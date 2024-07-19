@@ -1,5 +1,7 @@
 <div align=center>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faifornature&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faifornature&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
+  
 </div>
 
 ### 👋 Hi there! My name is Jin ah and i love AI & Nature
@@ -21,12 +23,13 @@
 
 ### Projects💻
 - [내 안의 긍정이](https://github.com/Dreamofheaven/inside_log)
-- **Paper** [Deepsleep](https://github.com/whatareyoudoingz/ETRI-lifelog-data-project) - ETRI 제2회 휴먼이해 인공지능 논문 경진대회
-- **Paper** [KSC2023 라이프로그와 슬립테크기기 기반 수면 질 지표의 머신러닝 연구](https://github.com/whatareyoudoingz/DeepSleep_project) - 김진아, 최치우, 홍승혁
+- **Paper** [Deepsleep](https://github.com/whatareyoudoingz/ETRI-lifelog-data-project) @ ETRI 제2회 휴먼이해 인공지능 논문 경진대회 & KCC2023 - 라이프로그 데이터를 활용한 수면의 질 추정에서의 주요 요인에 대한 연구 (김진아, 임지우, 홍승혁)
+- **Paper** [Deepsleep2](https://github.com/whatareyoudoingz/DeepSleep_project) @ KSC2023 - 라이프로그와 슬립테크기기 기반 수면 질 지표의 머신러닝 연구 (김진아, 최치우, 홍승혁)
+- 
 ### Certifications📜
 - 수원대학교 & 데이콘 Data Science 실무 역량 강화 교육 @ DACON & Suwon Unversity 
 - BDA 5기 데이터 분석 기초반 @ BDA(Big Data Analytics Association, 빅데이터분석학회) 
-- [KDT 2기 풀스택](https://github.com/whatareyoudoingz/TIL)[ 개발자 취업캠프(PYTHON)](https://github.com/whatareyoudoingz/TIL_for_Backend) @ MultiCampus (멀티캠퍼스) 
+- [KDT 2기 풀스택](https://github.com/whatareyoudoingz/TIL) [개발자 취업캠프(PYTHON)](https://github.com/whatareyoudoingz/TIL_for_Backend) @ MultiCampus (멀티캠퍼스) 
 - 데이터 청년 캠퍼스 을지대학교 과정 @ MSIT / KDIPA (과학기술정보통신부/한국데이터산업진흥원)
   
 ### Hackathon🌱
