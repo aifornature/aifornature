@@ -47,7 +47,7 @@
 ### Github States & algorithm levels
 ![aifornature's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_red&show_icons=true)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={wlsdk3165})](https://solved.ac/{wlsdk3165})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdk3165)](https://solved.ac/wlsdk3165)
 
 ### Others⚡
 - [f-killer mentoring mentor](https://github.com/whatareyoudoingz/f-killer) @ Suwon University
