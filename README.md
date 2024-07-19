@@ -45,7 +45,7 @@
   - [한국소프트웨어종합학술대회(KSC2023) 학부생/주니어 논문경진대회 학부생 부문 장려상](https://github.com/whatareyoudoingz/DeepSleep_project) @ KIISE 2023
 
 ### Github States & algorithm levels
-![aifornature's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_red&show_icons=true)
+![aifornature's GitHub stats](https://github-readme-stats.vercel.app/api?username=aifornature&theme=shadow_red&show_icons=true)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdk3165)](https://solved.ac/wlsdk3165)
 
