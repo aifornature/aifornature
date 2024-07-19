@@ -17,7 +17,13 @@
 - Full Stack : ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white) 
 
 ### Work experience 👔
-- `2023.02 ~ 2023.10.31` 학부연구생 @ Suwon University
+|Job Position|Company|Field|Work Period|
+|------|---|---|---|
+|연구연수생|ETRI(한국전자통신연구원) 디지털융합연구소 산업에너지융합연구본부 자율형IoT연구실|ML&DL(LSTM) with Time series data analysis|2024-01-02 ~ 2024-02-29|
+|인턴|케어크루즈|Web Develop with LLM api, AI Chatbot|2023-11-01 ~ 2023-12-31|
+|학부연구생|Suwon University|Search,ML with Data|2023-02 ~ 2023-10-31|
+
+`2023.02 ~ 2023.10.31` 학부연구생 @ Suwon University
 - `2023.11.01 ~ 2023.12.31` 인턴 @ 케어크루즈
 - `2024.01.02 ~ 2024.02.29` 연구연수생 @ ETRI(한국전자통신연구원) 디지털융합연구소 산업에너지융합연구본부 자율형IoT연구실
 
