@@ -17,6 +17,9 @@
 - Full Stack : ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white) 
 
 ### Work experience 👔
+- `2023.02 ~ 2023.10.31` 학부연구생 @ Suwon University
+- `2023.11.01 ~ 2023.12.31` 인턴 @ 케어크루즈
+- `2024.01.02 ~ 2024.02.29` 연구연수생 @ ETRI(한국전자통신연구원) 디지털융합연구소 산업에너지융합연구본부 자율형IoT연구실
 
 ### Education🎓
 - Bachelor's Degree @ Suwon Unversity, Data Science
@@ -25,7 +28,7 @@
 - [내 안의 긍정이](https://github.com/Dreamofheaven/inside_log) - 개인의 부정적인 감정이나 생각을 기록하고, chatGPT API에게 긍정적인 답변을 받아오는 웹 서비스 
 - **Paper** [Deepsleep](https://github.com/whatareyoudoingz/ETRI-lifelog-data-project) - 라이프로그 데이터를 활용한 수면의 질 추정에서의 주요 요인에 대한 연구 (김진아, 임지우, 홍승혁) @ ETRI 제2회 휴먼이해 인공지능 논문 경진대회 & KCC2023 
 - **Paper** [Deepsleep2](https://github.com/whatareyoudoingz/DeepSleep_project) - 라이프로그와 슬립테크기기 기반 수면 질 지표의 머신러닝 연구 (김진아, 최치우, 홍승혁) @ KSC2023 
-- 
+  
 ### Certifications📜
 - 수원대학교 & 데이콘 Data Science 실무 역량 강화 교육 @ DACON & Suwon Unversity 
 - BDA 5기 데이터 분석 기초반 @ BDA(Big Data Analytics Association, 빅데이터분석학회) 
@@ -51,7 +54,9 @@
 
 ### Others⚡
 - [f-killer mentoring mentor](https://github.com/whatareyoudoingz/f-killer) @ Suwon University
+
 <!---
 aifornature/aifornature is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+*The form was referenced from [Dani’s GitHub](https://github.com/dayyass#hi-my-name-is-dani--and-i-%EF%B8%8F-ai-and-open-source).
