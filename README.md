@@ -6,10 +6,10 @@
 
 ### 👋 Hi there! My name is Jin ah and I love AI & Nature
 👀 **Field of Interests** : Visual intelligence (image recognition / computer vision / image processing)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Visual intelligence.
+- 💞️ I’m looking to collaborate on Visual intelligence Project that can help the environment.
 - 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: My hobby is Fishing(but not eating that).
 
 ### Skills🛠️
 - Languages: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) SQL ![R(Optional](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
@@ -42,8 +42,13 @@
 - Team
   - [연구데이터 분석활용 경진대회 장려상](https://github.com/Data-analysis-utilization-contest) @ KISTI 2022
   - 데이터 청년 캠퍼스 을지대학교 과정 우수상 @ Eulji Unversity 2023
-  - 한국소프트웨어종합학술대회(KSC2023) 학부생/주니어 논문경진대회 학부생 부문 장려상 @ KIISE 2023
-   
+  - [한국소프트웨어종합학술대회(KSC2023) 학부생/주니어 논문경진대회 학부생 부문 장려상](https://github.com/whatareyoudoingz/DeepSleep_project) @ KIISE 2023
+
+### Github States & algorithm levels
+![aifornature's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_red&show_icons=true)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={wlsdk3165})](https://solved.ac/{wlsdk3165})
+
 ### Others⚡
 - [f-killer mentoring mentor](https://github.com/whatareyoudoingz/f-killer) @ Suwon University
 <!---
