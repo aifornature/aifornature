@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 
 ### Skills🛠️
-- Languages: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL] ![R(Optional](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
+- Languages: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) SQL ![R(Optional](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
 - DS/ML/DL : ![scikit-learn](https://img.shields.io/badge/sklearn-276DC3?style=flat&logo=R&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white)
 - Full Stack : ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white) 
 
