@@ -8,7 +8,6 @@
 👀 **Field of Interests** : Visual intelligence (image recognition / computer vision / image processing)
 - 🌱 I’m currently learning Visual intelligence.
 - 💞️ I’m looking to collaborate on Visual intelligence Project that can help the environment.
-- 📫 How to reach me ...
 - ⚡ Fun fact: My hobby is Fishing(but not eating that).
 
 ### Skills🛠️
@@ -22,7 +21,7 @@
 - Bachelor's Degree @ Suwon Unversity, Data Science
 
 ### Projects💻
-- [내 안의 긍정이](https://github.com/Dreamofheaven/inside_log)
+- [내 안의 긍정이](https://github.com/Dreamofheaven/inside_log) - 개인의 부정적인 감정이나 생각을 기록하고, chatGPT API에게 긍정적인 답변을 받아오는 웹 서비스 
 - **Paper** [Deepsleep](https://github.com/whatareyoudoingz/ETRI-lifelog-data-project) - 라이프로그 데이터를 활용한 수면의 질 추정에서의 주요 요인에 대한 연구 (김진아, 임지우, 홍승혁) @ ETRI 제2회 휴먼이해 인공지능 논문 경진대회 & KCC2023 
 - **Paper** [Deepsleep2](https://github.com/whatareyoudoingz/DeepSleep_project) - 라이프로그와 슬립테크기기 기반 수면 질 지표의 머신러닝 연구 (김진아, 최치우, 홍승혁) @ KSC2023 
 - 
