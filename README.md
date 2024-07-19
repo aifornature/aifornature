@@ -8,6 +8,7 @@
 👀 **Field of Interests** : Visual intelligence (image recognition / computer vision / image processing)
 - 🌱 I’m currently learning Visual intelligence.
 - 💞️ I’m looking to collaborate on Visual intelligence Project that can help the environment.
+- 📭 If you want to contact me, my email address is jins31651@gmail.com.
 - ⚡ Fun fact: My hobby is Fishing(but not eating that).
 
 ### Skills🛠️
