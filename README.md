@@ -23,8 +23,8 @@
 
 ### Projects💻
 - [내 안의 긍정이](https://github.com/Dreamofheaven/inside_log)
-- **Paper** [Deepsleep](https://github.com/whatareyoudoingz/ETRI-lifelog-data-project) @ ETRI 제2회 휴먼이해 인공지능 논문 경진대회 & KCC2023 - 라이프로그 데이터를 활용한 수면의 질 추정에서의 주요 요인에 대한 연구 (김진아, 임지우, 홍승혁)
-- **Paper** [Deepsleep2](https://github.com/whatareyoudoingz/DeepSleep_project) @ KSC2023 - 라이프로그와 슬립테크기기 기반 수면 질 지표의 머신러닝 연구 (김진아, 최치우, 홍승혁)
+- **Paper** [Deepsleep](https://github.com/whatareyoudoingz/ETRI-lifelog-data-project) - 라이프로그 데이터를 활용한 수면의 질 추정에서의 주요 요인에 대한 연구 (김진아, 임지우, 홍승혁) @ ETRI 제2회 휴먼이해 인공지능 논문 경진대회 & KCC2023 
+- **Paper** [Deepsleep2](https://github.com/whatareyoudoingz/DeepSleep_project) - 라이프로그와 슬립테크기기 기반 수면 질 지표의 머신러닝 연구 (김진아, 최치우, 홍승혁) @ KSC2023 
 - 
 ### Certifications📜
 - 수원대학교 & 데이콘 Data Science 실무 역량 강화 교육 @ DACON & Suwon Unversity 
