@@ -38,7 +38,7 @@
 - [수도권 ICT이노베이션스퀘어 인공지능 고급과정(시각)](https://github.com/user-attachments/files/16530404/_._.pdf) @ 수도권ICT 이노베이션스퀘어 & (과학기술정보통신부/정보통신산업진흥원)
 - [데이터 청년 캠퍼스 을지대학교 과정](https://github.com/user-attachments/files/16530209/43-.0031-000385.-.2.pdf) @ MSIT / KDIPA (과학기술정보통신부/한국데이터산업진흥원)
 - [KDT 2기 풀스택 개발자 취업캠프(PYTHON)](https://github.com/user-attachments/files/16530203/43-.0031-000385.-.1.pdf) ([F](https://github.com/whatareyoudoingz/TIL)/[B](https://github.com/whatareyoudoingz/TIL_for_Backend)) @ MultiCampus (멀티캠퍼스)
-- [BDA 5기 데이터 분석 기초반(https://github.com/user-attachments/files/16530391/_._.pdf) @ BDA(Big Data Analytics Association, 빅데이터분석학회) 
+- [BDA 5기 데이터 분석 기초반](https://github.com/user-attachments/files/16530391/_._.pdf) @ BDA(Big Data Analytics Association, 빅데이터분석학회) 
 - [수원대학교 & 데이콘 Data Science 실무 역량 강화 교육](https://github.com/user-attachments/files/16530247/43-.0031-000385.-.1.pdf) @ DACON & Suwon Unversity 
   
 ### Hackathon🌱
