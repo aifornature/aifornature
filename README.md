@@ -50,7 +50,7 @@
  @ WISET 2023
   - [Data Science 실무 역량 강화 교육 발전상](https://github.com/user-attachments/files/16530247/43-.0031-000385.-.1.pdf) @ DACON 2022
 - Team
-  - [수도권 ICT 이노베이션스퀘어 인공지능 고급과정(시각) 수상](https://github.com/user-attachments/assets/af7e6a72-f7e1-4fff-b229-91e0c64991dc) @ 수도권 ICT 이노베이션스퀘어
+  - [수도권 ICT 이노베이션스퀘어 인공지능 고급과정(시각) 수상](https://github.com/user-attachments/assets/af7e6a72-f7e1-4fff-b229-91e0c64991dc) @ 수도권 ICT 이노베이션스퀘어 2023
   - [한국소프트웨어종합학술대회(KSC2023) 학부생/주니어 논문경진대회 학부생 부문 장려상](https://github.com/user-attachments/files/16530349/-.5.pdf) @ KIISE 2023
   - [데이터 청년 캠퍼스 을지대학교 과정 우수상](https://github.com/user-attachments/files/16530261/43-.0031-000385.-.3.pdf)
  @ Eulji Unversity 2023 
