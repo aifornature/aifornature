@@ -24,7 +24,7 @@
 |학부연구생|Suwon University|Search,ML with Data|2023-02 ~ 2023-10-31|
 
 ### Education🎓
-- Bachelor's Degree @ Suwon Unversity, Data Science
+- Bachelor's Degree @ Suwon Unversity, Data Science (2018.02 - 2024.08)
 
 ### Projects💻
 - [Chest X-ray Image project](https://github.com/aifornature/Chest-X-ray-Image-project) - Chest X-ray Image를 활용한 폐렴 질병 진단 (이진, 다중분류) @ 수도권 ICT 이노베이션 스퀘어
