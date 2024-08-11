@@ -5,7 +5,7 @@
 </div>
 
 ### 👋 Hi there! My name is Jin ah and I love AI & Nature
-👀 **Field of Interests** : Visual intelligence (image recognition / computer vision / image processing)
+👀 **Field of Interests** : Visual intelligence (image recognition / computer vision / image processing), Image Generation
 - 🌱 I’m currently learning Visual intelligence.
 - 💞️ I’m looking to collaborate on Visual intelligence Project that can help the environment.
 - 📭 If you want to contact me, my email address is jins31651@gmail.com.
