@@ -34,7 +34,7 @@
 - [내 안의 긍정이](https://github.com/Dreamofheaven/inside_log) - 개인의 부정적인 감정이나 생각을 기록하고, chatGPT API에게 긍정적인 답변을 받아오는 웹 서비스 
 - **`Paper📖`** [Deepsleep](https://github.com/whatareyoudoingz/ETRI-lifelog-data-project) - 라이프로그 데이터를 활용한 수면의 질 추정에서의 주요 요인에 대한 연구 (김진아, 임지우, 홍승혁) @ ETRI 제2회 휴먼이해 인공지능 논문 경진대회 & KCC2023
 - [Recycle-project](https://github.com/Recycle-detection/recycle-project) - 배달용 쓰레기 분리수거를 위한 재활용 객체 감지 및 오염도 이진 분류 @ Prometheus Startup Hackaton 2023
-- [대사증후군](https://github.com/Data-analysis-utilization-contest) - 대사증후군 질병 영향요인 분석 플랫폼 @ KISTI 제2회 연구데이터 분석활용 경진대회 2022
+- [데사증후군](https://github.com/Data-analysis-utilization-contest) - 대사증후군 질병 영향요인 분석 플랫폼 @ KISTI 제2회 연구데이터 분석활용 경진대회 2022
 
 ### Certifications📜
 - [수도권 ICT이노베이션스퀘어 인공지능 고급과정(시각)](https://github.com/user-attachments/files/16530404/_._.pdf) @ 수도권ICT 이노베이션스퀘어 & (과학기술정보통신부/정보통신산업진흥원)
