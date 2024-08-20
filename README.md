@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Visual intelligence.
 - 💞️ I’m looking to collaborate on Visual intelligence Project that can help the environment🌳 and the public safety🦺.
 - 📭 If you want to contact me, my email address is jins31651@gmail.com.
-- 👩‍💻 My blog address is [https://whatareyoudoingz.github.io/](https://whatareyoudoingz.github.io/).
+- 👩‍💻 My New blog address is [https://aifornature.github.io/](https://aifornature.github.io/). Previous blog address is [https://whatareyoudoingz.github.io/](https://whatareyoudoingz.github.io/).
 - ⚡ Fun fact: My hobby is Fishing(but not eating that).
 
 ### Skills🛠️
