@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Visual intelligence.
 - 💞️ I’m looking to collaborate on Visual intelligence Project that can help the environment🌳 and the public safety🦺.
 - 📭 If you want to contact me, my email address is <a href="mailto:jins31651@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=black&link=mailto:jins31651@gmail.com"/></a>.
-- 👩‍💻 My New blog address is <a href="https://aifornature.github.io/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=red&link=https://aifornature.github.io/"/></a>. Previous blog address is [https://whatareyoudoingz.github.io/](https://whatareyoudoingz.github.io/).
+- 👩‍💻 My New blog address is <a href="https://aifornature.github.io/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat&logo=GitHub Sponsors&logoColor=red&link=https://aifornature.github.io/"/></a>. Previous blog address is [https://whatareyoudoingz.github.io/](https://whatareyoudoingz.github.io/).
 - ⚡ Fun fact: My hobby is Fishing(but not eating that).
   
 ### Skills🛠️
