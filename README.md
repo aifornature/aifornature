@@ -8,10 +8,10 @@
 👀 **Field of Interests** : Data Anaylsis, Visual intelligence (image recognition / computer vision / image processing), Image Generation
 - 🌱 I’m currently learning Visual intelligence.
 - 💞️ I’m looking to collaborate on Visual intelligence Project that can help the environment🌳 and the public safety🦺.
-- 📭 If you want to contact me, my email address is jins31651@gmail.com.
-- 👩‍💻 My New blog address is <a href="https://github.com/aifornature" style="display: inline-block;"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com/aifornature" alt="GitHub"/></a>[https://aifornature.github.io/](https://aifornature.github.io/). Previous blog address is [https://whatareyoudoingz.github.io/](https://whatareyoudoingz.github.io/).
+- 📭 If you want to contact me, my email address is <a href="mailto:jins31651@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=blue&link=mailto:jins31651@gmail.com"/></a>.
+- 👩‍💻 My New blog address is <a href="https://aifornature.github.io/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=red&link=https://aifornature.github.io/"/></a>. Previous blog address is [https://whatareyoudoingz.github.io/](https://whatareyoudoingz.github.io/).
 - ⚡ Fun fact: My hobby is Fishing(but not eating that).
-
+  
 ### Skills🛠️
 - Languages: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) SQL ![R(Optional](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 - DS/ML/DL : ![scikit-learn](https://img.shields.io/badge/sklearn-276DC3?style=flat&logo=R&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white)
