@@ -29,6 +29,10 @@
 ### Education🎓
 - Bachelor's Degree @ Suwon Unversity, Data Science (2018.02 - 2024.08)
 
+### Credential🪪
+- [데이터분석 준전문가 (ADSP)](https://github.com/user-attachments/files/18141022/default.pdf), 2024-11-29
+- 빅데이터분석기사, 2024-12-20
+
 ### Projects💻
 - [Chest X-ray Image project](https://github.com/aifornature/Chest-X-ray-Image-project) - Chest X-ray Image를 활용한 폐렴 질병 진단 (이진, 다중분류) @ 수도권 ICT 이노베이션 스퀘어
 - **`Paper📖`** [Deepsleep2](https://github.com/whatareyoudoingz/DeepSleep_project) - 라이프로그와 슬립테크기기 기반 수면 질 지표의 머신러닝 연구 (김진아, 최치우, 홍승혁) @ KSC2023
