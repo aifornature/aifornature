@@ -31,7 +31,8 @@
 
 ### Credential🪪
 - [데이터분석 준전문가 (ADSP)](https://github.com/user-attachments/files/18141022/default.pdf), 2024-11-29
-- 빅데이터분석기사, 2024-12-20
+- [빅데이터분석기사](https://github.com/user-attachments/files/18228792/_.pdf), 2024-12-20
+
 
 ### Projects💻
 - [Chest X-ray Image project](https://github.com/aifornature/Chest-X-ray-Image-project) - Chest X-ray Image를 활용한 폐렴 질병 진단 (이진, 다중분류) @ 수도권 ICT 이노베이션 스퀘어
