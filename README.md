@@ -42,7 +42,7 @@
 
 ### Credential🪪
 - [ADsP(Advanced Data Analytics Semi-Professional)](https://github.com/user-attachments/files/18141022/default.pdf), 2024-11-29
-- [Engineer Big Data Analysis(빅데이터분석기사)](https://github.com/user-attachments/files/18228792/_.pdf), 2024-12-20
+- [Engineer Big Data Analysis](https://github.com/user-attachments/files/18228792/_.pdf), 2024-12-20
 
 
 ### Projects💻
