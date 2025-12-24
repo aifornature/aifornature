@@ -5,18 +5,17 @@
 </div>
 
 ### 👋 Hi there! My name is Jin ah and I love AI & Nature
-👀 **Field of Interests** : Multi Modal, Visual intelligence (image recognition / computer vision / image processing), Image Generation
 - 🌱 I’m currently learning Natural Language Processing.
 - 💞️ I’m looking to collaborate on Visual intelligence Project that can help the environment🌳 and the public safety🦺.
 - ⚡ Fun fact: My hobby is Fishing(but not eating that).
 
-### Research Interests
+### Research Interests 👀
 - Multimodal Learning
-- Visual Intelligence
+- Visual Intelligence (image recognition / computer vision / image processing)
 - Image Generation
 
 
-### Contact 
+### Contact 📭
 - email : wlsdk3165@ust.ac.kr
 - blog : https://aifornature.tistory.com/
   
