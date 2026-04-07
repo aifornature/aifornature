@@ -77,7 +77,7 @@
   - [Mentee of the Year Award (Chairperson's Award)](https://github.com/user-attachments/files/16530269/43-.0031-000385.-.4.pdf) @ WISET 2023
   - [Improvement Award (Data Science Practical Skills Enhancement Program)](https://github.com/user-attachments/files/16530247/43-.0031-000385.-.1.pdf) @ DACON 2022
 - Team
-  - [1st Prize in 3-person Track] @ UST Support MVP Program 2025
+  - [1st Prize in 3-person Track](https://github.com/user-attachments/files/26544970/MVP.pdf) @ UST Support MVP Program 2025
   - [1st Prize (Advanced AI Program Team Award)](https://github.com/user-attachments/assets/af7e6a72-f7e1-4fff-b229-91e0c64991dc) @ Captial Region ICT Innovation Square 2024
   - [Encouragement Award (KSC 2023 Undergraduate/Junior Paper Competition Undergraduate Division)](https://github.com/user-attachments/files/16530349/-.5.pdf) @ KIISE 2023
   - [Excellence Award (Data Youth Campus Eulji Unversity Promgram)](https://github.com/user-attachments/files/16530261/43-.0031-000385.-.3.pdf) @ Eulji Unversity 2023 
