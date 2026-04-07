@@ -27,7 +27,7 @@
 ### Work experience 👔
 |Job Position|Organization|Department/Lab|Field|Work Period|
 |------|---|---|---|---|
-| M.S. | UST-ETRI | Language Intelligence Research Lab, Intelligent Information Research Divison, AI Creative Research Institute | NLP, Automated Essay Scoring |2025-03-01 ~ |
+| M.S. | UST-ETRI | Language Intelligence Research Lab, Intelligent Information Research Divison, AI Creative Research Institute | Automated Essay Scoring(AES), Video-based Intelligent Tutoring Systems |2025-03-01 ~ |
 | Research Trainee | ETRI | Autonomous IoT Research Lab, Self-Directed IoT Research Divison, Industry & Energy Convergence Research Department, Digital Convergence Research Institute| ML & DL(LSTM) with Time series data analysis| 2024-01-02 ~ 2024-02-29 |
 | Intern |Care Cruise| Development | Web and AI Chatbot Development using LLM APIs(OpenAI API), FE(Django, Gradio), FE(React, HTML, CSS), DB(PostrgreSQL) |2023-11-01 ~ 2023-12-31|
 | Undergraduate Research Assistant | University of Suwon | Prof. Hong Lab | Data Analysis, Machine Learning |2023-02 ~ 2023-10-31|
