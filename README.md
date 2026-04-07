@@ -1,6 +1,7 @@
 <div align=center>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faifornature&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views)](https://github.com/aifornature)
+<img width="109" height="135" alt="character" src="https://github.com/user-attachments/assets/5a6c2f7f-6a72-4da8-9b37-3416fdef23cf" />
+
   
 </div>
 
