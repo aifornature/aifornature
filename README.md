@@ -12,8 +12,6 @@
 ### Research Interests 👀
 - Multimodal Learning
 - Visual Intelligence (image recognition / computer vision / image processing)
-- Image Generation
-
 
 ### Contact 📭
 - email : wlsdk3165@ust.ac.kr
