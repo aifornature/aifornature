@@ -1,6 +1,6 @@
 <div align=center>
   
-<img width="209" height="235" alt="character" src="https://github.com/user-attachments/assets/1b646bcf-79b1-4db5-a79d-e5edd73bff62" />
+<img width="1856" height="2298" alt="Gemini_Generated_Image_33lsd733lsd733ls" src="https://github.com/user-attachments/assets/0d04095f-61d3-4984-a33c-63525b00e55d" />
 
   
 </div>
