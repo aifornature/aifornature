@@ -61,7 +61,7 @@
 - Journal Articles : NA
   
 ### Certifications📜
-- [UST Support MVP Program](https://github.com/user-attachments/files/26543956/MVP.pdf) @ UST
+- [UST Support MVP Program](https://github.com/user-attachments/files/26543956/MVP.pdf) @ UST(University of Science and Technology)
 - [Advanced AI Program (Computer Vision Track) Captial Region ICT Innovation Square](https://github.com/user-attachments/files/16530404/_._.pdf) @ Captial Region ICT Innovation Square & MSIT(Ministry of Science and ICT) / NIPA(National IT Industry Promotion Agency)
 - [Data Youth Campus Eulji Unversity Promgram](https://github.com/user-attachments/files/16530209/43-.0031-000385.-.2.pdf) @ MSIT / KDIPA(Korea Data Industry Promotion Agency) 
 - [KDT(K-Digital Training) 2nd Cohort Full-Stack Developer Employment Bootcamp(PYTHON)](https://github.com/user-attachments/files/16530203/43-.0031-000385.-.1.pdf) ([F](https://github.com/whatareyoudoingz/TIL)/[B](https://github.com/whatareyoudoingz/TIL_for_Backend)) @ MultiCampus 
