@@ -45,7 +45,7 @@
 
 
 ### Projects💻
-- Development of "Posture Owl": AI-based Smart Healthcare Solution for Posture Recognition (Team: OwlAI) @ UST Support MVP Program 2025
+- Posture Owl - AI-based Smart Healthcare Solution for Posture Recognition (Team: OwlAI) @ UST Support MVP Program 2025
 - [Chest X-ray Image project](https://github.com/aifornature/Chest-X-ray-Image-project) - Pneumonia diagnosis using chest X-ray images (binary/multi class classification) @ Capital Region ICT Innovation Square 2024
 - [My Inner Positivity](https://github.com/Dreamofheaven/inside_log) - Web Service that logs user's negative emotions/thoughts and returns positive, supportive responses via the ChatGPT API 2023
 - [Recycle-project](https://github.com/Recycle-detection/recycle-project) - Recycling object detection and binary contamination classification for delivery-food waste sorting @ Prometheus Startup Hackaton 2023
