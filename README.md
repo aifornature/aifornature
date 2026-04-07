@@ -46,8 +46,9 @@
 
 
 ### Projects💻
-- [Chest X-ray Image project](https://github.com/aifornature/Chest-X-ray-Image-project) - Pneumonia diagnosis using chest X-ray images (binary/multi class classification) @ Capital Region ICT Innovation SquareC
-- [My Inner Positivity](https://github.com/Dreamofheaven/inside_log) - Web Service that logs user's negative emotions/thoughts and returns positive, supportive responses via the ChatGPT API 
+- Development of "Posture Owl": AI-based Smart Healthcare Solution for Posture Recognition (Team: OwlAI) @ UST Support MVP Program 2025
+- [Chest X-ray Image project](https://github.com/aifornature/Chest-X-ray-Image-project) - Pneumonia diagnosis using chest X-ray images (binary/multi class classification) @ Capital Region ICT Innovation Square 2024
+- [My Inner Positivity](https://github.com/Dreamofheaven/inside_log) - Web Service that logs user's negative emotions/thoughts and returns positive, supportive responses via the ChatGPT API 2023
 - [Recycle-project](https://github.com/Recycle-detection/recycle-project) - Recycling object detection and binary contamination classification for delivery-food waste sorting @ Prometheus Startup Hackaton 2023
 - [Data Science Syndrome](https://github.com/Data-analysis-utilization-contest) - Platform for analyzing factors influencing metabolic syndrome @ KISTI 2nd Research Data Analysis & Utilization Competition 2022
 
@@ -62,6 +63,7 @@
 - Journal Articles : NA
   
 ### Certifications📜
+- [UST Support MVP Program](https://github.com/user-attachments/files/26543956/MVP.pdf) @ UST
 - [Advanced AI Program (Computer Vision Track) Captial Region ICT Innovation Square](https://github.com/user-attachments/files/16530404/_._.pdf) @ Captial Region ICT Innovation Square & MSIT(Ministry of Science and ICT) / NIPA(National IT Industry Promotion Agency)
 - [Data Youth Campus Eulji Unversity Promgram](https://github.com/user-attachments/files/16530209/43-.0031-000385.-.2.pdf) @ MSIT / KDIPA(Korea Data Industry Promotion Agency) 
 - [KDT(K-Digital Training) 2nd Cohort Full-Stack Developer Employment Bootcamp(PYTHON)](https://github.com/user-attachments/files/16530203/43-.0031-000385.-.1.pdf) ([F](https://github.com/whatareyoudoingz/TIL)/[B](https://github.com/whatareyoudoingz/TIL_for_Backend)) @ MultiCampus 
@@ -76,6 +78,7 @@
   - [Mentee of the Year Award (Chairperson's Award)](https://github.com/user-attachments/files/16530269/43-.0031-000385.-.4.pdf) @ WISET 2023
   - [Improvement Award (Data Science Practical Skills Enhancement Program)](https://github.com/user-attachments/files/16530247/43-.0031-000385.-.1.pdf) @ DACON 2022
 - Team
+  - [1st Prize in 3-person Track] @ UST Support MVP Program 2025
   - [1st Prize (Advanced AI Program Team Award)](https://github.com/user-attachments/assets/af7e6a72-f7e1-4fff-b229-91e0c64991dc) @ Captial Region ICT Innovation Square 2024
   - [Encouragement Award (KSC 2023 Undergraduate/Junior Paper Competition Undergraduate Division)](https://github.com/user-attachments/files/16530349/-.5.pdf) @ KIISE 2023
   - [Excellence Award (Data Youth Campus Eulji Unversity Promgram)](https://github.com/user-attachments/files/16530261/43-.0031-000385.-.3.pdf) @ Eulji Unversity 2023 
