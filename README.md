@@ -19,7 +19,7 @@
 - blog : https://aifornature.tistory.com/
   
 ### Skills🛠️
-- **Language** : Korea (Native), English (Intermediate)
+- **Language** : Korean (Native), English (Intermediate)
 - **Programming Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![R(Optional](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 - **AI/DS Tools/Frameworks** : ![scikit-learn](https://img.shields.io/badge/sklearn-276DC3?style=flat&logo=R&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat) etc.
 - **Database**: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
