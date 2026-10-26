@@ -5,7 +5,8 @@
   
 </div>
 
-### 👋 Hi there! My name is Jin ah and I'm an AI researcher aspiring to make a positive impact on the world through AI research.
+### 👋 Hi there! My name is Jin ah 
+### I'm an AI researcher aspiring to make a positive impact on the world through AI research.
 - 🌱 I’m currently learning Text-to-Image Model.
 - 💞️ I’m looking to collaborate on  AI Project that can help the environment🌳 and the public safety🦺.
 - ⚡ Fun fact: My hobby is Fishing(but not eating that).
