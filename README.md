@@ -5,14 +5,14 @@
   
 </div>
 
-### 👋 Hi there! My name is Jin ah and I love AI & Nature
-- 🌱 I’m currently learning Natural Language Processing.
-- 💞️ I’m looking to collaborate on Visual intelligence Project that can help the environment🌳 and the public safety🦺.
+### 👋 Hi there! My name is Jin ah and I'm an AI researcher aspiring to make a positive impact on the world through AI research.
+- 🌱 I’m currently learning Text-to-Image Model.
+- 💞️ I’m looking to collaborate on  AI Project that can help the environment🌳 and the public safety🦺.
 - ⚡ Fun fact: My hobby is Fishing(but not eating that).
 
 ### Research Interests 👀
 - Multimodal Learning
-- Visual Intelligence (image recognition / computer vision / image processing)
+- Visual Intelligence
 
 ### Contact 📭
 - email : wlsdk3165@ust.ac.kr
@@ -30,7 +30,7 @@
 ### Work experience 👔
 |Job Position|Organization|Department/Lab|Field|Work Period|
 |------|---|---|---|---|
-| M.S. | UST-ETRI | Language Intelligence Research Lab, Intelligent Information Research Divison, AI Creative Research Institute | Automated Essay Scoring(AES), Video-based Intelligent Tutoring Systems |2025-03-01 ~ |
+| M.S. | UST-ETRI | Language Intelligence Research Lab, Intelligent Information Research Divison, AI Creative Research Institute | Automated Essay Scoring(AES), Image-based Intelligent Tutoring Systems, **Text-in-Image Quality Assessment(TIQA)**  |2025-03-01 ~ |
 | Research Trainee | ETRI | Autonomous IoT Research Lab, Self-Directed IoT Research Divison, Industry & Energy Convergence Research Department, Digital Convergence Research Institute| ML & DL(LSTM) with Time series data analysis| 2024-01-02 ~ 2024-02-29 |
 | Intern |Care Cruise| Development | Web and AI Chatbot Development using LLM APIs(OpenAI API), FE(Django, Gradio), FE(React, HTML, CSS), DB(PostrgreSQL) |2023-11-01 ~ 2023-12-31|
 | Undergraduate Research Assistant | University of Suwon | Prof. Hong Lab | Data Analysis, Machine Learning |2023-02 ~ 2023-10-31|
@@ -53,8 +53,12 @@
 - [Recycle-project](https://github.com/Recycle-detection/recycle-project) - Recycling object detection and binary contamination classification for delivery-food waste sorting @ Prometheus Startup Hackaton 2023
 - [Data Science Syndrome](https://github.com/Data-analysis-utilization-contest) - Platform for analyzing factors influencing metabolic syndrome @ KISTI 2nd Research Data Analysis & Utilization Competition 2022
 
-### Publications / Paper📖
-- Conference Proceedings 
+### Publications 📖
+- Conference Papers
+  - [Posture Owl](https://ictc.org/program_proceeding) @ICTC2026
+    - J. Kim, D. Lee, Y. Kim, C. E. Lee, and J.-X. Huang, “OWL: On-device, Wireframe, Lightweight for Real-time Posture Correction Using Pose Estimation,” in Proc. International Conference on ICT Convergence (ICTC 2026), The Korean Institute of Communications and Information Sciences (KICS), Oct. 2026. 
+  - [Automated Essay Scoring](https://kiss.kstudy.com/Detail/Ar?key=4254429) @ASK2026
+    - J. Kim, H. Choi, and J. Huang, “A Study on Automated Korean Essay Scoring Using Score Alignment and LoRA Fine-Tuning,” in Proc. Annual Symposium of KIPS (ASK 2026), Korean Institute of Information Processing and Communication Engineers (KIPS), May. 2026, pp. 915–918.
   - [Deepsleep2](https://github.com/whatareyoudoingz/DeepSleep_project) @ KSC2023
     - J. Kim, C. Choi, and S. Hong, “Based on life log and sleep tech device Machine learning research on sleep quality indicators”, in Proc. Korea Software Congress (KSC 2023), Korean Institute of Information Scientists and Engineers (KIISE), Dec. 2023, pp. 1627–1629.
   - [Deepsleep](https://github.com/whatareyoudoingz/ETRI-lifelog-data-project) @ ETRI 2nd Human-Understanding AI Paper Competition & KCC2023
